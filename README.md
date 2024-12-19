@@ -2,6 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=john-ld)
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=john-ld&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react" width="445"/>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=john-ld&include_all_commits=true&layout=compact&theme=react&hide_border=true&count_private=true" height="176">
 <!--
 **john-ld/john-ld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
